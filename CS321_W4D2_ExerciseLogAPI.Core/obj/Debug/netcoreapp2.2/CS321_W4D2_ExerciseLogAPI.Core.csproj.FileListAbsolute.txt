@@ -1,0 +1,8 @@
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/bin/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.deps.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/bin/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.dll
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/bin/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.pdb
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/obj/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.csprojAssemblyReference.cache
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/obj/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.AssemblyInfoInputs.cache
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/obj/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.AssemblyInfo.cs
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/obj/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.dll
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W4D2_ExerciseLogAPI/CS321_W4D2_ExerciseLogAPI.Core/obj/Debug/netcoreapp2.2/CS321_W4D2_ExerciseLogAPI.Core.pdb

@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS321_W4D2_ExerciseLogAPI", "CS321_W4D2_ExerciseLogAPI\CS321_W4D2_ExerciseLogAPI.csproj", "{ABA5FF78-BCA2-4226-9503-38356F4006A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS321_W4D2_ExerciseLogAPI.Core", "CS321_W4D2_ExerciseLogAPI.Core\CS321_W4D2_ExerciseLogAPI.Core.csproj", "{ADE92A84-DCAD-4B8D-AF71-FF4B96153534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS321_W4D2_ExerciseLogAPI.Infrastructure", "CS321_W4D2_ExerciseLogAPI.Infrastructure\CS321_W4D2_ExerciseLogAPI.Infrastructure.csproj", "{0C6E2CB1-876F-4D2E-B79A-A84CFD567163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA5FF78-BCA2-4226-9503-38356F4006A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA5FF78-BCA2-4226-9503-38356F4006A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA5FF78-BCA2-4226-9503-38356F4006A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA5FF78-BCA2-4226-9503-38356F4006A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE92A84-DCAD-4B8D-AF71-FF4B96153534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE92A84-DCAD-4B8D-AF71-FF4B96153534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE92A84-DCAD-4B8D-AF71-FF4B96153534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE92A84-DCAD-4B8D-AF71-FF4B96153534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6E2CB1-876F-4D2E-B79A-A84CFD567163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6E2CB1-876F-4D2E-B79A-A84CFD567163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6E2CB1-876F-4D2E-B79A-A84CFD567163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6E2CB1-876F-4D2E-B79A-A84CFD567163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
